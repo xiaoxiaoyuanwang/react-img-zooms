@@ -15,10 +15,10 @@
     "move",
     "rotate"
   ],
-  "homepage": "https://github.com/xiaoxiaoyuanwang/react-image-zoom.git",
+  "homepage": "https://github.com/xiaoxiaoyuanwang/react-img-zooms.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiaoxiaoyuanwang/react-image-zoom.git"
+    "url": "https://github.com/xiaoxiaoyuanwang/react-img-zooms.git"
   },
   "files": [
     "dist"

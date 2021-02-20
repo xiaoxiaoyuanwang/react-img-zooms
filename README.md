@@ -65,13 +65,6 @@ import { ImgZoom } from 'react-image-zoom'
         <td>设置 容器的className</td>
       </tr>
       <tr>
-        <td class="info-table-monospace">style</td>
-        <td class="info-table-monospace"><span>CSSProperties</span></td>
-        <td>-</td>
-        <td>-</td>
-        <td>设置 每行的style</td>
-      </tr>
-      <tr>
         <td class="info-table-monospace">showOpt</td>
         <td class="info-table-monospace">bool</td>
         <td>-</td>

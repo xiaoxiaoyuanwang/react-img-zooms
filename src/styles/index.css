@@ -1,0 +1,35 @@
+.img-zoom-wrapper{
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  display: inline-block;
+}
+.img-wrapper{
+  overflow: hidden;
+  height: 100%;
+}
+.img-wrapper-height{
+  height: calc( 100% - 30px );
+}
+.img-operate{
+  text-align: center;
+  padding: 4px 0;
+}
+.img-zoom-con{
+  color: #999;
+  cursor: pointer;
+  margin: 0 5px;
+}
+.imgItemMove{
+  cursor: all-scroll;
+}
+.imgItemWheelUp{
+  cursor: -webkit-zoom-out;
+  cursor: -moz-zoom-out;
+  cursor: zoom-out;
+}
+.imgItemWheelDes{
+  cursor: -webkit-zoom-in;
+  cursor: -moz-zoom-in;
+  cursor: zoom-in;
+}
